@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**ForLoopNelson/ForLoopNelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Cory
 
 # 💫 About Me:
 Software Engineer at 100Devs agency<br>Freelance Web Developer<br><br>Currently working on an audio upload site to share sound design<br>elements for Horror themed content.<br><br>Always looking to learn more and meet others in the community.<br><br>Looking to contribute to more Open Source projects!
