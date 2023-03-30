@@ -17,7 +17,5 @@ Software Engineer at 100Devs agency<br>Freelance Web Developer<br><br>Currently 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ForLoopNelson&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@3MonitorNelson)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
