@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Cory
 
 # 💫 About Me:
-Software Engineer at 100Devs agency<br>Freelance Web Developer<br><br>Currently working on a password reset feature for "Sounds Spooky", an audio upload site to share sound design<br>elements for Horror themed content.<br><br>Making a commitment to try to get daily coding practice in. Love seeing those green squares!!<br><br><img src="https://github.com/ForLoopNelson/ForLoopNelson/assets/72758221/cbc4fc74-ddde-4a49-ac3d-320222919725" alt="margeCode" width="350"/>
+Software Engineer at 100Devs agency<br>Freelance Web Developer<br><br>Currently working on a password reset feature for "Sounds Spooky", an audio upload site to share sound design<br>elements for Horror themed content.<br><br>Making a commitment to try to get daily coding practice in. Love seeing those green squares!!<br><br><img src="https://github.com/ForLoopNelson/ForLoopNelson/assets/72758221/cbc4fc74-ddde-4a49-ac3d-320222919725" alt="margeCode" width="250"/>
  <br><br>Always looking to learn more and meet others in the community.<br>Looking to contribute to more Open Source projects!
 
 
